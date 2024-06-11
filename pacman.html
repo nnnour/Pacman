@@ -6,9 +6,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pacman</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        canvas {
+            border: none;
+        }
+    </style>
 </head>
 
-<body style="margin: 0; background-color: black;">
+<body>
     <canvas id="canvas" width="500" height="500"></canvas>
     <div style="display:none;">
         <img id="animation" src="animations.gif" width="140" height="20">
