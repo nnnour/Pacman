@@ -263,6 +263,7 @@ class Ghost {
             this.width,
             this.height
         );
+        /*
         canvasContext.restore();
         canvasContext.beginPath();
         canvasContext.strokeStyle = "red";
@@ -274,6 +275,7 @@ class Ghost {
             2 * Math.PI
         );
         canvasContext.stroke();
+        */
     }
 }
 
