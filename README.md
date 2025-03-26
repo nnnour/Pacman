@@ -1,5 +1,7 @@
 # 🕹️ Pacman Game 🕹️
 
+![Pacman Demo](pacman.gif)
+
 Welcome to the Pacman game! This project is a recreation of the classic Pacman arcade game using HTML, CSS, and JavaScript. 
 ## 🌟 Features
 - 🎮 **Classic Gameplay:** Control Pacman using the arrow keys and eat all the dots while avoiding the ghosts.
